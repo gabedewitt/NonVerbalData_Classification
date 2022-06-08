@@ -25,7 +25,7 @@ Os resultados obtidos demonstraram que a função get_dummies, para esse dataset
 <img src="https://user-images.githubusercontent.com/51098239/172722443-e8900c32-5a3a-4f9b-b16d-bac756a4af8c.png" alt="Matriz de Confusão"/>
 </p>
   
-Todavia, apesar desse resultado, também notou-se que há um desbalanceamento de classes nos dados e seria necessários ou a coleta de mais dados ou a adoção de uma técnica que equilibre as classes, muito provavelmente um undersampling, visto que existem poucos registros e a replicação do oversampling pode descaracterizar os dados e enviesar o modelo de classificação.
+Todavia, apesar desse resultado, também notou-se que há um desbalanceamento de classes nos dados e seria necessários ou a coleta de mais dados ou a adoção de uma técnica que equilibre as classes. Muito provavelmente um undersampling, visto que existem poucos registros e a replicação do oversampling pode descaracterizar os dados e enviesar o modelo de classificação.
 
 
  
